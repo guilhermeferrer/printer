@@ -961,10 +961,10 @@ electron-winstaller@^5.4.0:
   optionalDependencies:
     "@electron/windows-sign" "^1.1.2"
 
-electron@^33.0.2:
-  version "33.0.2"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-33.0.2.tgz#db31b105bf0edd7c8600dfb70c2dfc214e3789f1"
-  integrity sha512-C2WksfP0COsMHbYXSJG68j6S3TjuGDrw/YT42B526yXalIlNQZ2GeAYKryg6AEMkIp3p8TUfDRD0+HyiyCt/nw==
+electron@^34.0.0:
+  version "34.0.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-34.0.0.tgz#30ccedbc02d2f036868b8278960fd0e438ec0e52"
+  integrity sha512-fpaPb0lifoUJ6UJa4Lk8/0B2Ku/xDZWdc1Gkj67jbygTCrvSon0qquju6Ltx1Kz23GRqqlIHXiy9EvrjpY7/Wg==
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^20.9.0"
